@@ -72,10 +72,6 @@ public:
     int tmp3 =1;
     int tmp4 =1;
 
-    bool spread = true;
-    bool speedup = true;
-    bool drop = true;
-
 signals:
     // Signal for closing the game
     void quitGame();
